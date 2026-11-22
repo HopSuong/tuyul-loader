@@ -1,0 +1,2 @@
+import
+'./v/vm.ts'
